@@ -37,4 +37,5 @@ breaking_bad = media.Movie("Breaking Bad",
 
 movies = [avatar, boardwalk_empire, game_of_thrones, san_andreas, breaking_bad]
 
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.__doc__)
