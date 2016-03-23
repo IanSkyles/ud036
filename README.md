@@ -2,5 +2,19 @@
 Programming Foundations with Python  
 https://www.udacity.com/course/programming-foundations-with-python--ud036  
 
-![s1](https://github.com/IanSkyles/ud036/blob/master/screenshots/freshTomatoesHomePage.jpg])
+## Below are two pictures of the movie website.
 ![Alt text](https://github.com/IanSkyles/ud036/blob/master/screenshots/freshTomatoesHomePage.jpg?raw=true "Title")
+![Alt text](https://github.com/IanSkyles/ud036/blob/master/screenshots/freshTomatoesWatchingTrailer.jpg?raw=true "Title")
+  
+  
+  
+## Below are some pictures of _turtle_ art in python.
+![Alt text](https://github.com/IanSkyles/ud036/blob/master/screenshots/turtle.jpg?raw=true "Title")
+![Alt text](https://github.com/IanSkyles/ud036/blob/master/screenshots/turtle_with_circle_triangle_and_square.jpg?raw=true "Title")
+![Alt text](https://github.com/IanSkyles/ud036/blob/master/screenshots/turtle_mini_project_one.jpg?raw=true "Title")
+
+  
+  
+## Below is a secret message and the message decrpyted
+![Alt text](https://github.com/IanSkyles/ud036/blob/master/screenshots/secretMessageForForums.jpg?raw=true "Title")
+
