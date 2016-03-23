@@ -1,6 +1,7 @@
 # Programming Foundations with Python - ud036 - Udacity  
 https://www.udacity.com/course/programming-foundations-with-python--ud036  
 
+## What this class was all about
 In this class I reinforced an important programming technique called Object Oriented Programming. This allows me to share and reuse code almost like Lego blocks.
 
 But it would be disappointed if that were the only outcome of this course. I want my work to be a source of joy for others. In that spirit, I worked with the course materials to build 6 projects that will spread happiness to those around me. 
