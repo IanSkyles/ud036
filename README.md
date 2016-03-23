@@ -1,6 +1,8 @@
 # ud036
 Programming Foundations with Python  
 https://www.udacity.com/course/programming-foundations-with-python--ud036  
+  
+In this course I built the following: a movie webiste, turtle art, a simple message decryption program, and a profanity checker.
 
 ## Below are two pictures of the movie website.
 ![Alt text](https://github.com/IanSkyles/ud036/blob/master/screenshots/freshTomatoesHomePage.jpg?raw=true "Title")
